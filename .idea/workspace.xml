@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="Assignment3" targetName="Assignment3" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="29325e70-9350-4c3a-9979-d704a621d3b6" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1TvWcmou78JDazuxw7YmMI938fp" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\abdul\CLionProjects\Assignment3" />
+      <recent name="C:\Users\abdul\CLionProjects\Assignment3\cmake-build-debug" />
+      <recent name="C:\MinGW\lib\gcc\mingw32\8.2.0\include" />
+      <recent name="C:\Users\abdul\CLionProjects\Assignment3\cmake-build-debug\CMakeFiles\Assignment3.dir" />
+      <recent name="C:\Users\abdul\CLionProjects\Assignment3\cmake-build-debug\CMakeFiles" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\abdul\CLionProjects\Assignment3\cmake-build-debug" />
+      <recent name="C:\Users\abdul\CLionProjects\Assignment3" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Assignment3" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Assignment3" TARGET_NAME="Assignment3" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Assignment3" RUN_TARGET_NAME="Assignment3">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="29325e70-9350-4c3a-9979-d704a621d3b6" name="Default Changelist" comment="" />
+      <created>1574341130076</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574341130076</updated>
+      <workItem from="1574341132159" duration="3497000" />
+      <workItem from="1574599420851" duration="710000" />
+      <workItem from="1574685823821" duration="1844000" />
+      <workItem from="1574687682013" duration="21007000" />
+      <workItem from="1574791011897" duration="14698000" />
+      <workItem from="1574960598650" duration="38371000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

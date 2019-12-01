@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/abdul/CLionProjects/Assignment3/main.cpp
+iostream
+-
+fstream
+-
+sstream
+-
+vector
+-
+string
+-
+cmath
+-
+puff.h
+C:/Users/abdul/CLionProjects/Assignment3/puff.h
+puff.c
+C:/Users/abdul/CLionProjects/Assignment3/puff.c
+
+C:/Users/abdul/CLionProjects/Assignment3/puff.c
+setjmp.h
+-
+puff.h
+C:/Users/abdul/CLionProjects/Assignment3/puff.h
+
+C:/Users/abdul/CLionProjects/Assignment3/puff.h
+
